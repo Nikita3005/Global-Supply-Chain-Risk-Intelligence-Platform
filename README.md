@@ -26,7 +26,7 @@ The platform enables logistics teams to:
 ✔ Interactive SQL analytics dashboard  
 ✔ Supply chain operational insights
 
-```
+
 
 # 🏗 Solution Architecture
 
@@ -272,7 +272,7 @@ Notebooks/
 README.md
 ```
 
----
+
 # 💼 Business Impact
 
 The Supply Chain Risk Intelligence Platform enables logistics and operations teams to move from reactive decision-making to proactive risk management.
