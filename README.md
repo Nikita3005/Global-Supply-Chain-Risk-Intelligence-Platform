@@ -287,7 +287,7 @@ Key benefits include:
 By integrating machine learning with analytics dashboards, the platform allows supply chain managers to quickly detect operational inefficiencies and take corrective actions before delays escalate.
 
 This approach supports data-driven supply chain optimization, improves delivery reliability, and reduces operational risk.
-```
+
 
 ---
 
