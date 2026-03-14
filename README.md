@@ -16,6 +16,18 @@ The platform enables logistics teams to:
 
 ---
 
+## 🌟 Project Highlights
+
+✔ End-to-end Databricks Lakehouse architecture  
+✔ Medallion data architecture (Bronze → Silver → Gold)  
+✔ Feature engineering for logistics risk intelligence  
+✔ Machine learning delay prediction model  
+✔ MLflow experiment tracking  
+✔ Interactive SQL analytics dashboard  
+✔ Supply chain operational insights
+
+```
+
 # 🏗 Solution Architecture
 
 The system follows the **Medallion Architecture** pattern implemented within the Databricks Lakehouse.
@@ -258,6 +270,23 @@ Notebooks/
    ├── 04_logistics_risk_analytics
    └── 05_delay_prediction_model
 README.md
+```
+
+---
+# 💼 Business Impact
+
+The Supply Chain Risk Intelligence Platform enables logistics and operations teams to move from reactive decision-making to proactive risk management.
+
+Key benefits include:
+
+• **Early identification of high-risk shipments** using predictive modeling  
+• **Vendor performance monitoring** through delay rate analysis  
+• **Transportation optimization** by identifying shipment modes with higher delays  
+• **Cost efficiency insights** by analyzing freight cost versus delivery performance  
+
+By integrating machine learning with analytics dashboards, the platform allows supply chain managers to quickly detect operational inefficiencies and take corrective actions before delays escalate.
+
+This approach supports data-driven supply chain optimization, improves delivery reliability, and reduces operational risk.
 ```
 
 ---
