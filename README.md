@@ -1,8 +1,11 @@
 # 🚀 AI-Powered Supply Chain Risk Intelligence Platform
 
 ![Databricks](https://img.shields.io/badge/Platform-Databricks-orange)
-![MLflow](https://img.shields.io/badge/MLflow-ExperimentTracking-blue)
-![Python](https://img.shields.io/badge/Python-DataScience-green)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![MLflow](https://img.shields.io/badge/MLflow-Experiment%20Tracking-blue)
+![Delta Lake](https://img.shields.io/badge/Data%20Lake-Delta%20Lake-green)
+![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-purple)
+![Status](https://img.shields.io/badge/Project-Complete-success)
 
 ## 📌 Overview
 
