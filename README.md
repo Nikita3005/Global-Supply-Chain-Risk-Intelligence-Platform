@@ -243,7 +243,9 @@ Natural language analytics powered by Databricks Genie.
 Users can ask questions such as:
 
 💬 Which vendors have the highest delay rate?
+
 💬 Which shipment mode causes the most delays?
+
 💬 Show cost vs delay trends.
 
 Genie automatically generates SQL queries and visualizations for business users.
@@ -254,8 +256,11 @@ Genie automatically generates SQL queries and visualizations for business users.
 Analysis of the dataset revealed several important logistics insights:
 
 • Ocean shipments show the highest delay rates among transportation modes
+
 • Certain vendors consistently exceed average delay benchmarks
+
 • Large shipment sizes correlate with higher delivery delays
+
 • Higher freight cost per kg is associated with increased delay risk
 
 These insights can support **vendor selection, route planning, and logistics optimization**.
@@ -279,14 +284,23 @@ These insights can support **vendor selection, route planning, and logistics opt
 # 📂 Project Structure
 
 ```
-Artifacts/
-Notebooks/
-   ├── 01_bronze_ingestion
-   ├── 02_silver_data_cleaning
-   ├── 03_gold_feature_engineering
-   ├── 04_logistics_risk_analytics
-   └── 05_delay_prediction_model
-README.md
+Logistics-Risk-Analytics
+│
+├── Notebooks
+│   ├── 01_bronze_ingestion
+│   ├── 02_silver_data_cleaning
+│   ├── 03_gold_feature_engineering
+│   ├── 04_logistics_risk_analytics
+│   └── 05_delay_prediction_model
+│
+├── Artifacts
+│   ├── architecture_diagram.png
+│   ├── pipeline_notebooks.png
+│   ├── mlflow_experiment.png
+│   ├── analytics_dashboard.png
+│   └── genie_insights.png
+│
+└── README.md
 ```
 
 
