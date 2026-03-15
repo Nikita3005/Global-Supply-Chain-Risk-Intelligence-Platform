@@ -1,3 +1,7 @@
+![Databricks](https://img.shields.io/badge/Platform-Databricks-orange)
+![MLflow](https://img.shields.io/badge/MLflow-ExperimentTracking-blue)
+![Python](https://img.shields.io/badge/Python-DataScience-green)
+
 # 🚚 Global Supply Chain Risk Intelligence Platform using Databricks Lakehouse
 
 ## 📌 Overview
