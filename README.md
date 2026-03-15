@@ -1,6 +1,3 @@
-![banner](Artifacts/project_banner.png)
-
-
 # 🚀 AI-Powered Supply Chain Risk Intelligence Platform
 
 ![Databricks](https://img.shields.io/badge/Platform-Databricks-orange)
