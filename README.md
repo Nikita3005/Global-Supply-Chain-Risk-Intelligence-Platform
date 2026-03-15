@@ -1,8 +1,8 @@
+# 🚀 AI-Powered Supply Chain Risk Intelligence Platform
+
 ![Databricks](https://img.shields.io/badge/Platform-Databricks-orange)
 ![MLflow](https://img.shields.io/badge/MLflow-ExperimentTracking-blue)
 ![Python](https://img.shields.io/badge/Python-DataScience-green)
-
-# 🚚 Global Supply Chain Risk Intelligence Platform using Databricks Lakehouse
 
 ## 📌 Overview
 
@@ -234,8 +234,21 @@ Key dashboard components:
 
 These visualizations enable stakeholders to quickly identify operational risks and performance trends.
 
----
 
+---
+# 🤖 AI Insights using Databricks Genie
+
+Natural language analytics powered by Databricks Genie.
+
+Users can ask questions such as:
+
+💬 Which vendors have the highest delay rate?
+💬 Which shipment mode causes the most delays?
+💬 Show cost vs delay trends.
+
+Genie automatically generates SQL queries and visualizations for business users.
+
+---
 # 🔍 Key Insights
 
 Analysis of the dataset revealed several important logistics insights:
